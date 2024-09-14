@@ -1,2 +1,9 @@
-# MVC-.net-development-CRM-outlook-integration
-This is a Microsoft outlook calendar integration and testing the documented codes with a web interface
+# Install Required NuGet Packages
+Install-Package Microsoft.Identity.Web
+Install-Package Microsoft.Graph
+Install-Package Microsoft.Identity.Web.MicrosoftGraph
+
+# UPDATE appsettings.json
+
+Add your Azure AD application details to appsettings.json:
+

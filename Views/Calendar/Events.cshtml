@@ -1,0 +1,46 @@
+@model IEnumerable<Microsoft.Graph.Event>
+
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h2>Events</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Subject</th>
+            <th>Organizer</th>
+            <th>Start</th>
+            <th>End</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var event in Model)
+        {
+            <tr>
+                <td>@event.Subject</td>
+                <td>@event.Organizer.EmailAddress.Name</td>
+                <td>@event.Start.DateTime</td>
+                <td>@event.End.DateTime</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Form to create a new event -->
+<form asp-action="CreateEvent" method="post">
+    <div class="form-group">
+        <label for="subject">Subject</label>
+        <input type="text" class="form-control" id="subject" name="subject" required>
+    </div>
+    <div class="form-group">
+        <label for="start">Start</label>
+        <input type="datetime-local" class="form-control" id="start" name="start" required>
+    </div>
+    <div class="form-group">
+        <label for="end">End</label>
+        <input type="datetime-local" class="form-control" id="end" name="end" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Create Event</button>
+</form>

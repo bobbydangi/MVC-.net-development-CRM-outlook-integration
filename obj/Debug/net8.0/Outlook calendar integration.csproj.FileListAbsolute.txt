@@ -1,0 +1,30 @@
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\Outlook calendar integration.staticwebassets.runtime.json
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\Outlook calendar integration.exe
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\Outlook calendar integration.deps.json
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\Outlook calendar integration.runtimeconfig.json
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\Outlook calendar integration.dll
+C:\Users\hp\Outlook calendar integration\bin\Debug\net8.0\Outlook calendar integration.pdb
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.AssemblyInfoInputs.cache
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.AssemblyInfo.cs
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.csproj.CoreCompileInputs.cache
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.RazorAssemblyInfo.cache
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.RazorAssemblyInfo.cs
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\staticwebassets\msbuild.Outlook calendar integration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\staticwebassets\msbuild.build.Outlook calendar integration.props
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Outlook calendar integration.props
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Outlook calendar integration.props
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\scopedcss\bundle\Outlook calendar integration.styles.css
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\scopedcss\projectbundle\Outlook calendar integration.bundle.scp.css
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.dll
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\refint\Outlook calendar integration.dll
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.pdb
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\Outlook calendar integration.genruntimeconfig.cache
+C:\Users\hp\Outlook calendar integration\obj\Debug\net8.0\ref\Outlook calendar integration.dll
